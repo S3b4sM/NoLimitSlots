@@ -2,7 +2,7 @@
 
 declare(strict_types=1);
 
-namespace suky\unlimitedslots;
+namespace sm\unlimitedslots;
 
 use pocketmine\event\Listener;
 use pocketmine\event\server\QueryRegenerateEvent;
